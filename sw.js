@@ -2,44 +2,44 @@ importScripts('/_nuxt/workbox.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/_nuxt/23d5ed0f412a3f279c48.js",
-    "revision": "151f4a0907f4a3c349104deed37b71d4"
+    "url": "/_nuxt/14ffe04e8af6e12a3d32.js",
+    "revision": "efceb4da9c0975c5e1f63ca83d373c86"
   },
   {
-    "url": "/_nuxt/39588eb512c36b5a1c7b.js",
-    "revision": "61e96f0462494cc4e6f16328ecab8a5b"
+    "url": "/_nuxt/1db4e62c577f60dace87.js",
+    "revision": "5d0aec2ceed29f26044036ae15843d05"
   },
   {
-    "url": "/_nuxt/4f67882254a5b67267be.js",
-    "revision": "df71e1d25a94c67e6df16c2f71d4add4"
+    "url": "/_nuxt/319f7ac829d6791464ee.js",
+    "revision": "d8f4b10c5896f9680deed0c78104ef35"
   },
   {
-    "url": "/_nuxt/5019471301bd98a35fa3.js",
-    "revision": "04e38ae470f7d711a907778f835cb5c4"
+    "url": "/_nuxt/4d7ec98e02f973665413.js",
+    "revision": "afb48a201876610b298662412d32feb0"
   },
   {
-    "url": "/_nuxt/6a21f24be32780fbd98d.js",
-    "revision": "b11c78f2e66e279953e6576c075da55c"
+    "url": "/_nuxt/5576bf248b2aacbdafbb.js",
+    "revision": "cac5d1413b5b4630aa722e4887f0d4da"
   },
   {
-    "url": "/_nuxt/7e1e126812e5ab83be11.js",
-    "revision": "538a24e76100e00a04856d032bf02f10"
+    "url": "/_nuxt/6456bc63b4c0c2b7c999.js",
+    "revision": "2540e49fa89db86e182f7a18ee484733"
   },
   {
-    "url": "/_nuxt/c2af434036722ca3ddfa.js",
-    "revision": "1907ca2af5699b726b81c48d3f7e422b"
+    "url": "/_nuxt/7c24bebdff4750ba4afb.js",
+    "revision": "f2c25ab613b876acf2326200bc6e349b"
   },
   {
-    "url": "/_nuxt/c47dd8f125851cf60b14.js",
-    "revision": "1649625aceda5537405a65068011d675"
+    "url": "/_nuxt/7de7e77b0ce1adaf7d85.js",
+    "revision": "853d35beafb58b261a4cfe5bb34e3d00"
   },
   {
-    "url": "/_nuxt/dedb4c384660d79bca3f.js",
-    "revision": "f84a8af2a7fa5681e004f5051593dbdd"
+    "url": "/_nuxt/a7ccd91bb2e75e8011c6.js",
+    "revision": "334bdd2173ec69286271fb7640bdf852"
   },
   {
-    "url": "/_nuxt/e11963d65b3a309d63bf.js",
-    "revision": "ae36ef13b4fdf6593ca3baaa505b3661"
+    "url": "/_nuxt/f1bb10510d29ec1842dd.js",
+    "revision": "1883d928182da1a5624194c2599d3376"
   }
 ], {
   "cacheId": "spirit-gift",
